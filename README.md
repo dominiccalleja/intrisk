@@ -9,6 +9,9 @@ INT-rinsic RISK is Leonardos first module. It will be used to develop code for h
 - undertake some preliminary statistical analysis and visualisation 
 - practice writing object orientated code.
 
+## Learning 
+- practice writing object orientated code.
+- get used to using git
 
 ## Bugs:
 
